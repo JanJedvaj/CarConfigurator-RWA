@@ -138,3 +138,4 @@ C:\Users\Jan\Desktop\ALGEBRA\RWA\CarConfigurator\CarConfigurator\obj\Debug\net8.
 C:\Users\Jan\Desktop\ALGEBRA\RWA\CarConfigurator\CarConfigurator\obj\Debug\net8.0\CarConfigurator.pdb
 C:\Users\Jan\Desktop\ALGEBRA\RWA\CarConfigurator\CarConfigurator\obj\Debug\net8.0\CarConfigurator.genruntimeconfig.cache
 C:\Users\Jan\Desktop\ALGEBRA\RWA\CarConfigurator\CarConfigurator\obj\Debug\net8.0\ref\CarConfigurator.dll
+C:\Users\Jan\Desktop\ALGEBRA\RWA\CarConfigurator\CarConfigurator\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
